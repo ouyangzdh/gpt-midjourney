@@ -9,7 +9,7 @@
 ## 介绍
 🔥 产品说明、演示站、截图等相关内容请 [进入产品介绍](https://docs.qq.com/doc/DQUtod0tZakRUSFNC) 查看，本仓库下述介绍内容可能不是最新的，最新的请以此链接为准。
 
-💬 加入交流咨询微信/QQ群：[点我查看进入](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf)
+💬 加入交流咨询微信/QQ群：[点我查看进入](https://docs.qq.com/doc/DQUtod0tZakRUSFNC)
 
 ## 演示站点
 - TODO
