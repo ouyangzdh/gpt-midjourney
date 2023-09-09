@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">🍭 ChatGPT4.0-Midjourney-stable diffusion-视频处理-数字人Pro</h1>
+<br align="center">🍭 ChatGPT4.0-Midjourney-stable diffusion</br>视频处理-数字人Pro</h1>
 
 全新精美的个人+商业+企业私有化基础AIGC图文、一键生成电商宝贝详情、数字人平台
 
