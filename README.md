@@ -1,18 +1,18 @@
 <div align="center">
 
-<br align="center">🍭 ChatGPT4.0-Midjourney-stable diffusion</br>视频处理-数字人Pro</h1>
+<h1 align="center">🍭 ChatGPT4.0-Midjourney-stable diffusion-视频处理-数字人Pro</h1>
 
 全新精美的个人+商业+企业私有化基础AIGC图文、一键生成电商宝贝详情、数字人平台
 
 </div>
 
 ## 介绍
-🔥 产品说明、演示站、截图等相关内容请 [进入产品介绍](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf) 查看，本仓库下述介绍内容可能不是最新的，最新的请以此链接为准。
+🔥 产品说明、演示站、截图等相关内容请 [进入产品介绍](https://docs.qq.com/doc/DQUtod0tZakRUSFNC) 查看，本仓库下述介绍内容可能不是最新的，最新的请以此链接为准。
 
 💬 加入交流咨询微信/QQ群：[点我查看进入](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf)
 
 ## 演示站点
-- [立即查看体验](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf)
+- TODO
 
 ## 技术架构
 - 前端：Vue3 + NaiveUI
@@ -60,7 +60,7 @@
 - [x] 敏感词噪音去除开关和自定义正则支持
 
 ## 截图
-> 截图非实时更新，实际请以演示站或[产品介绍](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf)及最新版本的为准
+> 截图非实时更新，实际请以演示站或[产品介绍](https://docs.qq.com/doc/DQUtod0tZakRUSFNC)及最新版本的为准
 
 ### PC端
 |  登陆授权   | AI对话  |
